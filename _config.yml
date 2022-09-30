@@ -1,0 +1,6 @@
+Title: [Conway's Game Of Life]
+Description: [SM2302: y+2x Group]
+
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+- jekyll-remote-theme
