@@ -3,7 +3,7 @@
 % Generating random 1st Generation
 g = 50; % grid size
 d = 0.1; % density of nonzeros
-n = 50;
+n = 50; % number of generations
 
 x = sprand(g-2,g-2,d);
 gen1 = spones(x); % converting nonzeros to ones
