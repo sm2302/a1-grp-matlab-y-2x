@@ -21,7 +21,7 @@ In this repository you will find:
 ## Group y+2x members
 - Hashiifah Aina 19b2130
 - Aina Karmila 19b2131
-- Aini 19b2101
+- Nuraini 19b2101
 
 
 
